@@ -12,3 +12,8 @@ Various Azure related reading.
 - September 2021: OMIGOD (Linux VMs)
   - [“Secret” Agent Exposes Azure Customers To Unauthorized Code Execution (OMIGOD)](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
   - [Additional Guidance Regarding OMI Vulnerabilities within Azure VM Management Extensions](https://msrc-blog.microsoft.com/2021/09/16/additional-guidance-regarding-omi-vulnerabilities-within-azure-vm-management-extensions/)
+
+
+## Security testing and playbooks
+
+- [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
