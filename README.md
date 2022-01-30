@@ -1,8 +1,24 @@
-# Azure reads
+# Good reads
 
-Various Azure related reading.
+Various articles, which I have found useful.
 
-## Security vulnerabilities
+## Architecture
+
+- [Patterns for Authorization in Microservices](https://www.osohq.com/post/microservices-authorization-patterns)
+
+## Devops
+
+- [Git Organized: A Better Git Flow | Render](https://render.com/blog/git-organized-a-better-git-flow)
+
+## APIs
+
+- [10 shades of public API hosting on Azure - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/10-shades-of-public-api-hosting-on-azure/ba-p/2989856)
+
+## Kubernetes
+
+- [Two reasons Kubernetes is so complex • Buttondown](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/)
+
+## Azure Security vulnerabilities
 
 - August 2021: ChaosDB (CosmosDB)
   - [ChaosDB: How we hacked thousands of Azure customers’ databases](https://www.wiz.io/blog/chaosdb-how-we-hacked-thousands-of-azure-customers-databases)
@@ -13,7 +29,6 @@ Various Azure related reading.
 - September 2021: OMIGOD (Linux VMs)
   - [“Secret” Agent Exposes Azure Customers To Unauthorized Code Execution (OMIGOD)](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
   - [Additional Guidance Regarding OMI Vulnerabilities within Azure VM Management Extensions](https://msrc-blog.microsoft.com/2021/09/16/additional-guidance-regarding-omi-vulnerabilities-within-azure-vm-management-extensions/)
-
 
 ## Security testing and playbooks
 
