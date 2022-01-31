@@ -33,3 +33,7 @@ Various articles, which I have found useful.
 ## Security testing and playbooks
 
 - [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
+
+
+---
+Do you think something awesome is missing? Create an issue with the link and a comment why you think it is a *good read*.
