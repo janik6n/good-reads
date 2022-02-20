@@ -34,6 +34,9 @@ Various articles, which I have found useful.
 
 - [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
 
+## Miscellaneous
+
+- [LogJ4 Security Inquiry – Response Required | daniel.haxx.se](https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/)
 
 ---
 Do you think something awesome is missing? Create an issue with the link and a comment why you think it is a *good read*.
