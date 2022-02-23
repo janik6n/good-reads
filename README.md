@@ -14,6 +14,10 @@ Various articles, which I have found useful.
 
 - [10 shades of public API hosting on Azure - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/10-shades-of-public-api-hosting-on-azure/ba-p/2989856)
 
+## Linux
+
+- [Linux SysOps Handbook - Linux SysOps Handbook](https://abarrak.gitbook.io/linux-sysops-handbook)
+
 ## Kubernetes
 
 - [Two reasons Kubernetes is so complex • Buttondown](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/)
