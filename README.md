@@ -33,6 +33,8 @@ Various articles, which I have found useful.
 - September 2021: OMIGOD (Linux VMs)
   - [“Secret” Agent Exposes Azure Customers To Unauthorized Code Execution (OMIGOD)](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)
   - [Additional Guidance Regarding OMI Vulnerabilities within Azure VM Management Extensions](https://msrc-blog.microsoft.com/2021/09/16/additional-guidance-regarding-omi-vulnerabilities-within-azure-vm-management-extensions/)
+- March 2022: AutoWrap (Azure Automation)
+  - [AutoWarp Microsoft Azure Automation Vulnerability - Orca Security](https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/)
 
 ## Security testing and playbooks
 
