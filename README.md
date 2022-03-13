@@ -5,10 +5,16 @@ Various articles, which I have found useful.
 ## Architecture
 
 - [Patterns for Authorization in Microservices](https://www.osohq.com/post/microservices-authorization-patterns)
+- [Fixing retries with token buckets and circuit breakers - Marc's Blog](https://brooker.co.za/blog/2022/02/28/retries.html)
 
 ## Devops
 
 - [Git Organized: A Better Git Flow | Render](https://render.com/blog/git-organized-a-better-git-flow)
+
+## Security
+
+- [Security for package maintainers](https://sethmlarson.dev/blog/security-for-package-maintainers)
+- [HTB - DevOops. DevOops is a retired machine on HackTheBox. This write-up is a walk through the methodology that leads to root shell.](https://kaizoku.dev/htb-devoops)
 
 ## APIs
 
@@ -17,6 +23,7 @@ Various articles, which I have found useful.
 ## Linux
 
 - [Linux SysOps Handbook - Linux SysOps Handbook](https://abarrak.gitbook.io/linux-sysops-handbook)
+- [Linux: Storing data on a block storage device](https://community.hetzner.com/tutorials/howto-linux-access-block-device)
 
 ## Kubernetes
 
