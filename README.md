@@ -13,6 +13,9 @@ Various articles, which I have found useful.
 
 ## Security
 
+- [Security best practices and patterns](https://docs.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns)
+- [Security, Identity & Compliance | AWS Architecture Center](https://aws.amazon.com/architecture/security-identity-compliance/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all)
+- [Cloud Security Best Practices Center  |  Google Cloud](https://cloud.google.com/security/best-practices)
 - [Security for package maintainers](https://sethmlarson.dev/blog/security-for-package-maintainers)
 - [HTB - DevOops. DevOops is a retired machine on HackTheBox. This write-up is a walk through the methodology that leads to root shell.](https://kaizoku.dev/htb-devoops)
 
