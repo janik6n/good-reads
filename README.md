@@ -6,6 +6,7 @@ Various articles, which I have found useful.
 
 - [Patterns for Authorization in Microservices](https://www.osohq.com/post/microservices-authorization-patterns)
 - [Fixing retries with token buckets and circuit breakers - Marc's Blog](https://brooker.co.za/blog/2022/02/28/retries.html)
+- [Learnings from 5 years of tech startup code audits](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 
 ## Devops 
 
