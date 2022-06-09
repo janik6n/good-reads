@@ -8,6 +8,7 @@ Various articles, which I have found useful.
 - [Fixing retries with token buckets and circuit breakers - Marc's Blog](https://brooker.co.za/blog/2022/02/28/retries.html)
 - [Learnings from 5 years of tech startup code audits](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 - [How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
+- ⭐ [Improve outbound connectivity with Azure Virtual Network NAT | Azure Blog and Updates | Microsoft Azure](https://azure.microsoft.com/en-gb/blog/improve-outbound-connectivity-with-azure-virtual-network-nat/)
 
 ## Devops 
 
